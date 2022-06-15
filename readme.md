@@ -42,7 +42,7 @@ var a = new Point(-10, -100);
 
 a.mult(5) // Point(-50, -500)
 ```
-#### Method `<Point>.mult`
+#### Method `<Point get>.magnitude`
 ```ts
 var a = new Point(10, 0);
 
